@@ -76,7 +76,7 @@ under the License.
 
     <!-- Dependency Versions -->
     <ant.bundle.version>1.7.0_1</ant.bundle.version>
-    <aspectj.bundle.version>1.8.9</aspectj.bundle.version>
+    <aspectj.bundle.version>1.8.9_1</aspectj.bundle.version>
     <aspectj.version>1.8.9</aspectj.version>
     <doclava.version>1.0.5</doclava.version>
     <ehcache.version>2.6.6</ehcache.version>
